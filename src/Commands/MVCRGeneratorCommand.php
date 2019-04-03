@@ -11,7 +11,7 @@ class MVCRGeneratorCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'mvcr::generate {controlName : Class (singular) for example Post}';
+    protected $signature = 'mvcr:generate {controlName : Class (singular) for example Post}';
 
     /**
      * The console command description.
