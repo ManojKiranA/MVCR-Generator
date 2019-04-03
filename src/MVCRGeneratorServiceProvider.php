@@ -41,7 +41,7 @@ class MVCRGeneratorServiceProvider extends ServiceProvider
 
             // Registering package commands.
            $this->commands([
-                        MVCRGenerator::class
+                        MVCRGeneratorCommand::class
                         ]);
         }
     }

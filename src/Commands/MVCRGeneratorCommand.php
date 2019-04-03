@@ -4,7 +4,7 @@ namespace Manojkiran\MVCRGenerator;
 
 use Illuminate\Console\Command;
 
-class MVCRGenerator extends Command
+class MVCRGeneratorCommand extends Command
 {
     /**
      * The name and signature of the console command.
